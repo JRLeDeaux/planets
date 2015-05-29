@@ -1,2 +1,4 @@
 Pluto is not a planet anymore :-(
 But it is dwarf planet :-)
+I am making changes to Pluto to test GITHUB
+John fixed.
